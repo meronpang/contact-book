@@ -1,3 +1,7 @@
+.contact .contact-form,
+.contact-index ul{
+ max-width: 500px;
+}
 .contact .contact-form label,
 .contact-show label{
  display: inline-block;
