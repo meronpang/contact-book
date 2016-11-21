@@ -2,6 +2,9 @@
 .contact-index ul{
  max-width: 500px;
 }
+.contact h2{
+ color: tomato;
+}
 .contact .contact-form label,
 .contact-show label{
  display: inline-block;
